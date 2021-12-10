@@ -5,7 +5,7 @@ body {
 .oldalsosav {
     background-color: black;
     height: 100%;
-    width: 240px;
+    width: 264px;
     font-size: 35px;
     position: fixed;
     padding-top: 30px;
@@ -25,7 +25,7 @@ body {
 
 
 .main {
-    margin-left: 230px;
+    margin-left: 253px;
     width: 980px;
     padding: 0px 10px;
     background-color: wheat;
@@ -42,6 +42,7 @@ h2 {
 }
 
 h1 {
+    
     font-size: 35px;
     background-color: black;
     color: wheat;
